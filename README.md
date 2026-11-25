@@ -113,7 +113,8 @@ plt.show()
 RBF SVM Accuracy: 0.6888888888888889
 Mounted at /content/drive
 ```
-![SVM RBF decision regions](Exp4-1.png)
+<img width="671" height="505" alt="image" src="https://github.com/user-attachments/assets/dd6d044b-2a35-4121-8411-8227ead5bde5" />
+
 
 ## Result
 
